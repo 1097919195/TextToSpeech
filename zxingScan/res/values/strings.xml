@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">条码生成和扫描</string>
+	<string name="scan_tips">\"将条码图片对准扫描框即可自动扫描\"</string>
+</resources>
